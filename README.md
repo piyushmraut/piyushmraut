@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushmraut&label=Profile%20views&color=0e75b6&style=flat" alt="piyushmraut" /> </p>
 
-- 🔭 I’m currently working on **HealthCare Recommendation System**
+- 🔭 I’m currently working on **Cyberbullying Detection **
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
