@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushmraut&label=Profile%20views&color=0e75b6&style=flat" alt="piyushmraut" /> </p>
 
-- 🔭 I’m currently working on **Cyberbullying Detection **
+- 🔭 I’m currently working on **Calendar Scheduling **
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **pmraut1515@gmail.com**
 
